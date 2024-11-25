@@ -37,6 +37,24 @@ Java is a **platform-independent** language, which means it can run on any opera
    ```java
    public static void main(String[] args) {}
 
+   ### Java File Extensions
+- `.java` is the extension for Java source code files.
+- `.class` is the extension for Java bytecode files.
+
+### Key Concepts
+- **JVM (Java Virtual Machine)**: A virtual machine that runs Java bytecode on any operating system.
+- **JRE (Java Runtime Environment)**: The environment that provides the JVM along with libraries needed to run Java applications.
+- **JDK (Java Development Kit)**: A comprehensive toolkit that includes both the JVM and JRE, as well as tools for compiling Java code (like `javac`).
+
+### Summary
+- JVM is responsible for running the bytecode.
+- JRE contains the JVM and libraries necessary for running Java applications.
+- JDK includes everything needed for both compiling and running Java applications.
+
+### Why is Java Called "WORA"?
+Java is often referred to as **WORA: Write Once, Run Anywhere**. This is because Java bytecode can be executed on any platform that has a JVM, making Java highly portable across different operating systems.
+
+
 
 
 
